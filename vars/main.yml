@@ -1,7 +1,7 @@
 ---
 
 default_pdns_rec_package_name: pdns-recursor
-_pdns_rec_install_repo_name: pdns-recursor
+_pdns_rec_install_repo_name: powerdns-recursor
 
 # Map Ansible architectures to Debian/Ubuntu APT arch names
 _pdns_rec_apt_arch_map:
